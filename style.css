@@ -22,7 +22,7 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-color: #000000;
     color: #ffffff;
     text-align: center;
     padding: 40px;
@@ -95,8 +95,4 @@ footer {
     background-color: #000000;
     text-align: center;
     padding: 10px;
-}
-
-footer a:hover {
-    text-decoration: underline #ffffff;
 }
